@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/wangyuhui/Desktop/毕业设计/tflite/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/wangyuhui/Desktop/毕业设计/tflite/app/src/debug/shaders"/></dataSet></merger>
