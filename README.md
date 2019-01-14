@@ -4,6 +4,9 @@
 神经网络模型，最终在验证数据集上的准确率为百分之89.6，最后将训练好的模型转化成可以在手机上运行的模型
 (TensorFlow Lite Format)，最后完成物体识别APP的设计与实现。
 ```
+## 数据集
+[百度网盘链接](https://pan.baidu.com/s/1HA9M2h2JpKDY8uQHCbvxxQ) 提取码:ti4m
+
 # 文件介绍
 
 |文件名|作用|
@@ -17,9 +20,11 @@
 |tflite|安卓APP程序源码( 用Android Studio打开)|
 
 # 数据预处理结果
-<img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150"/>
+
+<img src="https://github.com/tianYingDao/FlowerRecognition/blob/master/result/PreProcess1.png" width="550" height="400"/>
 <br>
-<img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150"/>
+<img src="https://github.com/tianYingDao/FlowerRecognition/blob/master/result/PreProcess2.png" width="550" height="400"/>
 
 # 安卓APP截图
-<img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150"/>
+
+<img src="https://github.com/tianYingDao/FlowerRecognition/blob/master/result/result.png" width="550" height="400"/>
