@@ -27,4 +27,4 @@
 
 # 安卓APP截图
 
-<img src="https://github.com/tianYingDao/FlowerRecognition/blob/master/result/result.png" width="550" height="400"/>
+<img src="https://github.com/cswanngyuhui/FlowerRecognition/blob/master/result/result.png" width="550" height="400"/>
