@@ -21,10 +21,10 @@
 
 # 数据预处理结果
 
-<img src="https://github.com/cswanngyuhui/FlowerRecognition/blob/master/result/PreProcess1.png" width="550" height="400"/>
+<img src="https://github.com/cswangyuhui/FlowerRecognition/blob/master/result/PreProcess1.png" width="550" height="400"/>
 <br>
-<img src="https://github.com/cswanngyuhui/FlowerRecognition/blob/master/result/PreProcess2.png" width="550" height="400"/>
+<img src="https://github.com/cswangyuhui/FlowerRecognition/blob/master/result/PreProcess2.png" width="550" height="400"/>
 
 # 安卓APP截图
 
-<img src="https://github.com/cswanngyuhui/FlowerRecognition/blob/master/result/result.png" width="550" height="400"/>
+<img src="https://github.com/cswangyuhui/FlowerRecognition/blob/master/result/result.png" width="550" height="400"/>
